@@ -4,11 +4,11 @@ Author: Shivansh Satpute
 Tool Used: Tableau Public
 Dashboards:
 
-📦 Sales Dashboard
+📦 Sales Dashboard: https://public.tableau.com/app/profile/shivansh.satpute/viz/Book1_17526996226790/SALES
 
-🚚 Delivery Performance Dashboard
+🚚 Delivery Performance Dashboard: https://public.tableau.com/app/profile/shivansh.satpute/viz/Book1_17526996226790/DELIVERYPERFORMANCE
 
-🛒 Sellers Dashboard
+🛒 Sellers Dashboard: https://public.tableau.com/app/profile/shivansh.satpute/viz/Book1_17526996226790/SELLERS
 
 🧭 Project Overview
 This suite of three Tableau dashboards delivers end-to-end performance insights for an e-commerce platform across sales, delivery logistics, and seller contributions. Built with interactivity and performance KPIs, it supports actionable decision-making for operations, marketing, and vendor management teams.
